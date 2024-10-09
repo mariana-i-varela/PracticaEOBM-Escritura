@@ -17,5 +17,6 @@ Esta es mi imagen {"C:\Users\MIVG\Downloads\mate.jpg"}
 
 Este es mi codigo 
 Escribe la variable 'x' en el apartado 'm'
-´´´´R
+´´´R
 a=5
+´´´´
