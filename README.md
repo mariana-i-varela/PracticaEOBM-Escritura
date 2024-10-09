@@ -12,4 +12,4 @@ Conozco los siguientes lenguajes de programación:
 
 Este es mi linkedin
 [LinkeDIn]{https://www.linkedin.com/in/mariana-isabel-varela-guerero-85351616a/}
-
+Esta es mi imagen 
