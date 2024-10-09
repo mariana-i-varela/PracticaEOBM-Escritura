@@ -10,10 +10,10 @@ Conozco los siguientes lenguajes de programación:
 * R
 * Python 
 
-Este es mi linkedin
-[LinkeDIn]{https://www.linkedin.com/in/mariana-isabel-varela-guerero-85351616a/}
+Este es mi linkedIn
+[LinkedIn]{https://www.linkedin.com/in/mariana-isabel-varela-guerero-85351616a/}
 
-Esta es mi imagen {"C:\Users\MIVG\Downloads\mate.jpg"} 
+Esta es mi imagen [mate](README.md/mate.jpg)
 
 Este es mi codigo 
 Escribe la variable 'x' en el apartado 'm'
