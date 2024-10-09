@@ -14,7 +14,9 @@ Este es mi linkedIn
 [LinkedIn]{https://www.linkedin.com/in/mariana-isabel-varela-guerero-85351616a/}
 
 
-![mate](mate.jpg)
+<p align="center">
+  <img src="mate.jpg" width="500px">
+</p>
 
 Este es mi codigo 
 ```R
