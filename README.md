@@ -16,7 +16,6 @@ Este es mi linkedIn
 Esta es mi imagen [mate](README.md/mate.jpg)
 
 Este es mi codigo 
-Escribe la variable 'x' en el apartado 'm'
-´´´R
-a=5
-´´´´
+```R
+# Este es un ejemplo de código R
+print("¡Hola, GitHub!")
