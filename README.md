@@ -9,3 +9,7 @@ Estudié Licenciatura en Matemáticas en la Universidad del Atlántico. Colombia
 Conozco los siguientes lenguajes de programación:
 * R
 * Python 
+
+Este es mi linkedin
+[LinkeDIn]{https://www.linkedin.com/in/mariana-isabel-varela-guerero-85351616a/}
+
