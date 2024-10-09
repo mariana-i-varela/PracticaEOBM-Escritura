@@ -13,4 +13,7 @@ Conozco los siguientes lenguajes de programación:
 Este es mi linkedin
 [LinkeDIn]{https://www.linkedin.com/in/mariana-isabel-varela-guerero-85351616a/}
 
-Esta es mi imagen {mate.jpg} 
+Esta es mi imagen {"C:\Users\MIVG\Downloads\mate.jpg"} 
+
+Este es mi codigo 
+Escribe la variable 'x' en el apartado 'm'
