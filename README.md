@@ -13,7 +13,7 @@ Conozco los siguientes lenguajes de programación:
 Este es mi linkedIn
 [LinkedIn]{https://www.linkedin.com/in/mariana-isabel-varela-guerero-85351616a/}
 
-Esta es mi imagen [mate](README.md/mate.jpg)
+Esta es mi imagen ![mate](README.md/mate.jpg)
 
 Este es mi codigo 
 ```R
